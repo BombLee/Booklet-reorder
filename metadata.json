@@ -1,0 +1,5 @@
+{
+  "name": "Booklet Reorder Pro",
+  "description": "A specialized tool to rearrange PDF scans of A3 booklets back into their correct sequential page order (P1, P2, P3...).",
+  "requestFramePermissions": []
+}
